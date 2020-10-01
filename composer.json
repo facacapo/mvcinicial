@@ -1,0 +1,14 @@
+{
+    "name": "facundo/inicial",
+    "description": "Embrion para proyecto mvc",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Facundo",
+            "email": "facundoaguilerac@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
